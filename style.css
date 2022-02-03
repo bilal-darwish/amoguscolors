@@ -1,0 +1,192 @@
+body {
+    background-image: url(amongusbackground.jpeg);
+    background-size: 500px;
+  }
+  
+  .title {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: white;
+  }
+  
+  .sidebar {
+    float: left;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: white solid 1px;
+  }
+  
+  .sbtext {
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif
+  }
+  
+  .sbbutton1 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton1:hover {
+    background-color: #e2e2e2;
+  }
+  
+  .sbbutton2 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton2:hover {
+    background-color: #f76262;
+  }
+  
+  .sbbutton3 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton3:hover {
+    background-color: #68b6fe;
+  }
+  
+  .sbbutton4 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton4:hover {
+    background-color: #6ef887;
+  }
+  
+  .sbbutton5 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton5:hover {
+    background-color: #c3c1c1;
+  }
+  
+  .sbbutton6 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton6:hover {
+    background-color: #dfdfdf;
+  }
+  
+  .sbbutton7 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton7:hover {
+    background-color: #ff8aeb;
+  }
+  
+  .sbbutton8 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton8:hover {
+    background-color: #00ff25;
+  }
+  
+  .sbbutton9 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton9:hover {
+    background-color: #906464;
+  }
+  
+  .sbbutton10 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton10:hover {
+    background-color: #6fece8;
+  }
+  
+  .sbbutton11 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton11:hover {
+    background-color: #efbe74;
+  }
+  
+  .sbbutton12 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton12:hover {
+    background-color: #fff300;
+  }
+  
+  .sbbutton13 {
+    background-color: white;
+    border: black solid 2px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+  }
+  
+  .sbbutton13:hover {
+    background-color: #d855ff;
+  }
+  
+  p {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: white;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: white;
+  }
+  
+  .sussylevels {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
